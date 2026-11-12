@@ -1,4 +1,5 @@
 ## Hi there 👋
+Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği bölümü birinci sınıf öğrencisiyim.
 
 <!--
 **selmanekiz/selmanekiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
