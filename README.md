@@ -1,5 +1,21 @@
-## Hi there 👋
-Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği bölümü birinci sınıf öğrencisiyim.
+## Merhaba 👋
+Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği bölümü birinci sınıf öğrencisiyim. HTML ve JavaScript öğreniyorum. İleride mobil uygulamalar ve oyunlar geliştirmek istiyorum.
+---
+
+### 🛠️ Öğrendiğim Teknolojiler ve Araçlar
+* **Diller:** HTML, JavaScript
+* **Araçlar:** Git, GitHub, VS Code
+
+---
+
+### 🎯 Güncel Hedeflerim
+* Her gün en az 1 commit atarak düzenli kod yazma alışkanlığı kazanmak.
+* Öğrendiğim teknolojilerle küçük çaplı başlangıç projesi oluşturmak.
+
+---
+
+### 📫 İletişim
+* **E-posta:** 032590081@ogr.uludag.edu.tr
 
 <!--
 **selmanekiz/selmanekiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
